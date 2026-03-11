@@ -1,0 +1,13 @@
+# Virtual Environment
+venv/
+__pycache__/
+
+# API Keys and Secrets
+.env
+
+# Large Vector Database files (usually too big for Git)
+chromadb/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
